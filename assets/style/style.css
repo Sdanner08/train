@@ -1,0 +1,18 @@
+.container{
+    width: 100%;
+    background-color: black;
+    border: 4px black solid;
+}
+body{
+    background-color: black;
+}
+#header{
+    height: 400px;
+    color: green;
+    background-image: url(http://bestanimations.com/Transport/trains/vintage-train-animated-gif-3.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#input{
+    width: 50%;
+}
